@@ -1,7 +1,7 @@
 {
   "name": "ahj-dom-1",
   "version": "1.0.0",
-  "description": "[GitHub Pages](https://niksel00.github.io/ahj-env-3/)",
+  "description": "[GitHub Pages](https://niksel00.github.io/ahj-forms-1/)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
